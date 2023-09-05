@@ -1,0 +1,9 @@
+<script src="{{asset('assetss/libs/jquery/dist/jquery.min.js')}}"></script>
+  <script src="{{asset('assetss/libs/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{asset('assetss/js/sidebarmenu.js')}}"></script>
+  <script src="{{asset('assetss/js/app.min.js')}}"></script>
+  <script src="{{asset('assetss/libs/apexcharts/dist/apexcharts.min.js')}}"></script>
+  <script src="{{asset('assetss/libs/simplebar/dist/simplebar.js')}}"></script>
+  <script src="{{asset('assetss/js/dashboard.js')}}"></script>
+  <script src="{{asset('assetss/libs/jquery/dist/jquery.min.js')}}"></script>
+  <script src="{{asset('assetss/libs/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
